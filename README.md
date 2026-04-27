@@ -3,7 +3,7 @@
 
 > *"The world is talking. This is what it's saying."*
 
-**Live:** [hasrat-dev.netlify.app](https://hasrat-dev.netlify.app)
+**Live:** [hasratsii.netlify.app](https://hasratsii.netlify.app)
 
 ---
 
@@ -153,7 +153,4 @@ git remote add origin https://github.com/hasratsi-del/DISPATCH..git
 git push -u origin main
 ```
 
----
 
-**Built by Hasrat Singh Chauhan**  
-[at-quorum.netlify.app](https://at-quorum.netlify.app) · [github.com/hasratsi-del](https://github.com/hasratsi-del)
